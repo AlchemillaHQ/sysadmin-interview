@@ -25,3 +25,9 @@ You need to setup a Rustdesk Relay server on the server. You can use [this](http
 ## Setup a wireguard server
 
 You need to setup a wireguard server and create a peer configuration for the interviewer. The port used should be 51820.
+
+----
+
+You can document your thought process and also how you solved the problems in a separate markdown file and submit it to the interviewer.
+
+There is a time limit of 3 hours for this task. Please make sure to complete the tasks within the time limit.
