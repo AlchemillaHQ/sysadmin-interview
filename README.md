@@ -1,6 +1,6 @@
 # Sysadmin - Interview
 
-Before you start, please get the server IP from the interviewer and give them your SSH public key.
+Before you start, please get the server IP from the interviewer and give them your SSH public key. If you don't know how to complete a specific task or you are stuck, please ask the interviewer for help.
 
 This repo contains a number of tasks that you will need to complete, all of them are given below:
 
